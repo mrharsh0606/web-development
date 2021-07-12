@@ -1,0 +1,24 @@
+input{
+    color:brown
+}
+button{
+    background-color: blue;
+    color:red;
+}
+a{
+    color: orange;
+   }
+   button:hover{
+    background-color:#ff8000;
+    color:#40ff00;
+   }
+   h2::first-letter{
+        font-size: 30px;
+   }
+   p::first-line{
+       color:orangered
+   }
+   p::selection{
+       background-color: red;
+
+   }

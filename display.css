@@ -1,0 +1,21 @@
+h1{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    border:5px solid red;
+    padding: 100px;
+    display: inline;
+}
+span{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    border:10px dashed black;
+    padding:50px;
+    display:inline-block;
+}
+div{
+    background-color: chartreuse;
+    border:5px solid orange;
+   display: inline-block;
+}
